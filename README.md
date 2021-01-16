@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**tejustiwari/tejustiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/tejustiwari"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tejustiwari/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="LinkedIn"/></a>
