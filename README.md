@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/tejustiwari/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/tejustiwari18/"><img src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/tejustiwari/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Instagram-Outline-512.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/tejus_tiwari"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" alt="Twitter"/></a>
-  <a href="https://codeforces.com/profile/tejustiwari"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="Codeforces"/></a>
+	<a href="https://www.linkedin.com/in/tejustiwari/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/tejustiwari18/"><img src="<img src="https://img.icons8.com/android/26/000000/facebook-new.png"/>" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/tejustiwari/"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/tejus_tiwari"><img src="<img src="https://img.icons8.com/android/26/000000/twitter.png"/>" alt="Twitter"/></a>
+  <a href="https://codeforces.com/profile/tejustiwari"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/26/codeforces-512.png" alt="Codeforces"/></a>
 </p>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
