@@ -15,5 +15,3 @@
 	<a href="https://twitter.com/tejus_tiwari"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" alt="Twitter"/></a>
   <a href="https://codeforces.com/profile/tejustiwari"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="Codeforces"/></a>
 </p>
-
-![alt text](./images/bottom.svg)
