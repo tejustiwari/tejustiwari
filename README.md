@@ -10,7 +10,7 @@
 </p
 	
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejustiwari&label=Views&color=blue&style=plastic" alt="tejustiwari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tejustiwari&label=Views&color=blue&style=plastic" alt="tejustiwari" /> </p>
 
 
 
@@ -22,15 +22,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<div align="center">
+
 <a href="https://github.com/tejustiwari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejustiwari&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejustiwari&theme=light"/>
 </a>
 <br/>
 <a href="https://github.com/tejustiwari">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejustiwari&show_icons=true&theme=dark" alt="Tejus's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejustiwari&show_icons=true&theme=light&line_height=27" alt="Tejus's github stats"/>
 </a>
-</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
