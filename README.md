@@ -26,7 +26,6 @@
 <a href="https://github.com/tejustiwari">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejustiwari&theme=light"/>
 </a>
-<br/>
 <a href="https://github.com/tejustiwari">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejustiwari&show_icons=true&theme=light&line_height=27" alt="Tejus's github stats"/>
 </a>
